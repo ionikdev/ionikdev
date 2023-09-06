@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 Hey, I'm Damilola Happy to meet you here.<br><br> 😎 I care about people and love to assist fellow developers to work on their craft.<br>     I strongly believe that's how we all grow.<br>
+🔭Hello there, I'm Damilola, and it's a pleasure to connect with you here. 😎
+
+My passion lies in helping fellow developers enhance their skills and craft. I firmly believe that when we support one another, we all have the opportunity to flourish and grow in our journeys as developers. Let's collaborate and make great things happen!<br>
 
 
 ## 🌐 Socials:
