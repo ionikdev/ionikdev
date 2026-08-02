@@ -25,7 +25,7 @@ I enjoy turning complex business requirements into secure, maintainable, and hig
 
 ## Engineering Philosophy
 
-I believe software should be designed for the future—not just for today's requirements. Clean architecture, thoughtful data modeling, reliable infrastructure, and simplicity are the foundation of systems that scale.
+I believe software should be designed for the future not just for today's requirements. Clean architecture, thoughtful data modeling, reliable infrastructure, and simplicity are the foundation of systems that scale.
 
 I'm passionate about solving engineering challenges involving distributed systems, backend architecture, cloud infrastructure, security, and developer experience.
 
